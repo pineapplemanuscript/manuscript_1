@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+kl-ux.so
+exit (CmdLN 1)
